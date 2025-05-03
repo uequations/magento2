@@ -1,0 +1,169 @@
+[2025-05-01T18:06:04.843836+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:11:05.567874+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:14:29.011549+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:16:47.187762+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:21:49.357386+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:37:17.042637+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:39:55.199434+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:41:34.885246+00:00] main.ERROR: Parameter validation failed
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(292): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []
+[2025-05-01T18:51:08.447388+00:00] main.INFO: Source table payment_services_order_status_data_production_submitted_hash does not exist. Skipping data migration... [] []
+[2025-05-01T19:07:20.673841+00:00] main.ERROR: Could not validate a connection to the OpenSearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2025-05-01T19:15:17.490067+00:00] main.ERROR: Could not validate a connection to the OpenSearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2025-05-01T19:24:31.401098+00:00] main.ERROR: Could not validate a connection to the OpenSearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2025-05-01T19:35:11.818286+00:00] main.ERROR: Could not validate a connection to Elasticsearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2025-05-01T19:42:03.914393+00:00] main.ERROR: Could not validate a connection to the OpenSearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2025-05-01T21:13:00.166706+00:00] main.ERROR: Could not validate a connection to the OpenSearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2025-05-01T21:20:17.683995+00:00] main.ERROR: Could not validate a connection to Elasticsearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
+[2025-05-02T04:32:52.368609+00:00] main.ERROR: Could not validate a connection to the OpenSearch. No alive nodes found in your cluster
+#0 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/SearchConfig.php(69): Magento\Setup\Model\SearchConfig->validateSearchEngine()
+#1 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(1206): Magento\Setup\Model\SearchConfig->saveConfiguration(Array)
+#2 [internal function]: Magento\Setup\Model\Installer->installSearchConfiguration(Array)
+#3 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Model/Installer.php(407): call_user_func_array(Array, Array)
+#4 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/setup/src/Magento/Setup/Console/Command/InstallCommand.php(237): Magento\Setup\Model\Installer->install(Array)
+#5 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Command/Command.php(326): Magento\Setup\Console\Command\InstallCommand->execute(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(1078): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(324): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/magento/framework/Console/Cli.php(118): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/vendor/symfony/console/Application.php(175): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 /Users/alkebme/IdeaProjects/uequations/magento2-ueqn/bin/magento(23): Symfony\Component\Console\Application->run()
+#11 {main} [] []
