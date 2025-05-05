@@ -18,9 +18,13 @@
     },
     "version": "2.4.7-p4",
     "require": {
-        "magento/product-community-edition": "2.4.7-p4",
         "magento/composer-dependency-version-audit-plugin": "~0.1",
-        "magento/composer-root-update-plugin": "^2.0.4"
+        "magento/composer-root-update-plugin": "^2.0.4",
+        "magento/product-community-edition": "2.4.7-p4",
+        "swissup/breeze-blank": "^2.11",
+        "swissup/breeze-evolution": "^2.5",
+        "swissup/module-marketplace": "^1.10",
+        "swissup/module-rtl": "1.3.10"
     },
     "autoload": {
         "exclude-from-classmap": [
@@ -71,14 +75,19 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "repositories": [
-        {
+    "repositories": {
+        "magento": {
             "type": "composer",
-            "url": "https://repo.magento.com/"
+            "url": "https://repo.magento.com/",
+            "exclude": ["swissup/module-breeze","swissup/theme-frontend-breeze-blank","swissup/theme-frontend-breeze-evolution","swissup/breeze-evolution"]
+        },
+        "0": {
+            "type": "composer",
+            "url": "https://repo.magento.com/",
+            "exclude": ["swissup/module-breeze","swissup/theme-frontend-breeze-blank","swissup/theme-frontend-breeze-evolution","swissup/breeze-evolution"]
         }
-    ],
+    },
     "extra": {
         "magento-force": "override"
     }
 }
-

@@ -1,0 +1,50 @@
+# Magento 2 .gitignore
+
+# Composer dependencies
+/vendor/
+/composer.lock
+
+# Magento generated files
+/generated/
+/var/
+/pub/static/*
+!/pub/static/.htaccess
+/pub/media/*
+!/pub/media/.htaccess
+
+# Environment-specific files
+/app/etc/env.php
+/app/etc/config.php
+
+# IDE and OS files
+.idea/
+*.iml
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# PHPUnit
+.phpunit.result.cache
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# Node modules (if using frontend tools)
+node_modules/
+
+# Grunt / Gulp / Webpack
+/.sass-cache/
+/.cache/
+/dist/
+
+# Docker and Vagrant
+docker-compose.override.yml
+.vagrant/
+.env
+
+auth.json

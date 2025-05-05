@@ -359,6 +359,10 @@ return [
         'PayPal_BraintreeCustomerBalance' => 1,
         'PayPal_BraintreeGiftCardAccount' => 1,
         'PayPal_BraintreeGiftWrapping' => 1,
-        'PayPal_BraintreeGraphQl' => 1
+        'PayPal_BraintreeGraphQl' => 1,
+        'Swissup_Breeze' => 1,
+        'Swissup_BreezeIntegrations' => 0,
+        'Swissup_Marketplace' => 1,
+        'Swissup_Rtl' => 1
     ]
 ];
